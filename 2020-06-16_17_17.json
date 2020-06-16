@@ -1,0 +1,93 @@
+{
+ "best24volumeCrypto": {
+  "name": "Tether",
+  "volume_24h": 27837487874.9201
+ },
+ "percent_top10": [
+  [
+   "ABBC Coin",
+   27.2781
+  ],
+  [
+   "SwissBorg",
+   20.4228
+  ],
+  [
+   "Siacoin",
+   18.5431
+  ],
+  [
+   "Aave",
+   17.6541
+  ],
+  [
+   "Nexo",
+   14.038
+  ],
+  [
+   "Seele-N",
+   13.9125
+  ],
+  [
+   "Maker",
+   13.5275
+  ],
+  [
+   "Verge",
+   13.4746
+  ],
+  [
+   "Ren",
+   9.47175
+  ],
+  [
+   "Energi",
+   8.9651
+  ]
+ ],
+ "flop10": [
+  [
+   "Flexacoin",
+   -6.99029
+  ],
+  [
+   "Electroneum",
+   -4.36527
+  ],
+  [
+   "UNUS SED LEO",
+   -1.62754
+  ],
+  [
+   "Holo",
+   -1.54995
+  ],
+  [
+   "0x",
+   -0.692268
+  ],
+  [
+   "Dai",
+   -0.675025
+  ],
+  [
+   "Synthetix Network Token",
+   -0.563576
+  ],
+  [
+   "Dogecoin",
+   -0.211182
+  ],
+  [
+   "TrueUSD",
+   -0.169854
+  ],
+  [
+   "Paxos Standard",
+   -0.0841058
+  ]
+ ],
+ "first20TotalPrice": 10267.51,
+ "bestVolumeCryptoTotalPrice": 74745313114.48,
+ "percent_profit": 2.33
+}

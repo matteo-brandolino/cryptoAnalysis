@@ -1,0 +1,93 @@
+{
+ "best24volumeCrypto": {
+  "name": "Tether",
+  "volume_24h": 30928142838.9312
+ },
+ "percent_top10": [
+  [
+   "Flexacoin",
+   20.9215
+  ],
+  [
+   "Verge",
+   16.8373
+  ],
+  [
+   "Seele-N",
+   6.47725
+  ],
+  [
+   "SwissBorg",
+   5.8843
+  ],
+  [
+   "Ren",
+   5.23964
+  ],
+  [
+   "Zilliqa",
+   5.168
+  ],
+  [
+   "Siacoin",
+   4.79875
+  ],
+  [
+   "FTX Token",
+   2.40728
+  ],
+  [
+   "Quant",
+   2.18642
+  ],
+  [
+   "Dai",
+   1.45485
+  ]
+ ],
+ "flop10": [
+  [
+   "Divi",
+   -10.7808
+  ],
+  [
+   "Komodo",
+   -10.0549
+  ],
+  [
+   "Xensor",
+   -9.80017
+  ],
+  [
+   "Loopring",
+   -8.34166
+  ],
+  [
+   "0x",
+   -7.13401
+  ],
+  [
+   "Bancor",
+   -6.78058
+  ],
+  [
+   "ICON",
+   -6.63409
+  ],
+  [
+   "Status",
+   -6.58088
+  ],
+  [
+   "Horizen",
+   -6.37608
+  ],
+  [
+   "Hive",
+   -6.32942
+  ]
+ ],
+ "first20TotalPrice": 10027.92,
+ "bestVolumeCryptoTotalPrice": 80257958407.02,
+ "percent_profit": 0
+}
